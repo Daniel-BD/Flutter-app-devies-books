@@ -18,7 +18,7 @@ This assumes you have an Android emulator, iOS Simulator, or an attached physica
 * Rate books
 
 ## Code Organization 📂
-Code is organized in a loose and shallow feature-first fashion. In lib, you'll find directories such as Authentication, Books or api.
+Code is organized in a loose and shallow feature-first fashion. In `lib`, you'll find directories such as `Authentication`,`Books` or `api`.
 ```
 lib
 ├── Authentication
